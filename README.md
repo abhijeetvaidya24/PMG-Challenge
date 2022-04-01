@@ -14,3 +14,5 @@ To run the program -
                           C:/path/path/../accessories.csv (if present anywhere else)
 
 3. The output will be printed to the screen along with the file name column added.
+
+The Output of combination of clothing.csv and accessories.csv is given in the Output CSV file.
